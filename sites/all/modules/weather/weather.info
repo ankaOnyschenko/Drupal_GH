@@ -1,0 +1,4 @@
+name = Weather
+description = Block weather in footer.
+core = 7.x
+files[] = weather.module
